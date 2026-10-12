@@ -1,0 +1,6 @@
+{
+  "name": "Monte-Carlo Ragdoll 3D Casino",
+  "description": "Casino multijoueur en 3D temps réel avec physique ragdoll style Human Fall Flat, salles privées, chat en direct, classements, et 9 jeux complets (Poker, Blackjack, Roulette, Crash, Plinko, Mines, Chicken Run, Dice, Machines à sous).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
